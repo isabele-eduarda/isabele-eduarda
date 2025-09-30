@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá meu nome é Isabele. Sou técnica em Redes de Computadores e atualmente sou bolsista PROUNI no curso de Análise e Desenvolvimento de Sistemas na Faculdade Imaculada Conceição do Recife.
+Console.log ("Olá meu nome é Isabele. Sou técnica em Redes de Computadores e atualmente sou bolsista PROUNI no curso de Análise e Desenvolvimento de Sistemas na Faculdade Imaculada Conceição do Recife.")
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isabele-eduarda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
