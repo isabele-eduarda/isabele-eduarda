@@ -34,9 +34,5 @@ Console.log ("Olá meu nome é Isabele. Sou técnica em Redes de Computadores e 
 <img width="100%" src="./assets/estrelinhas.webp"/>
 
 <!-- Snake -->
-<picture align="center" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isabele-eduarda/isabele-eduarda/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isabele-eduarda/isabele-eduarda/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isabele-eduarda/isabele-eduarda/output/github-contribution-grid-snake.svg">
-</picture>
+![snake gif](https://github.com/isabele-eduarda/isabele-eduarda/blob/main/snake.svg)
 
