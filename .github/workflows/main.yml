@@ -12,7 +12,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Snake Game
+      - name: Run Snake Game
         uses: platane/snk@v1
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: isabele-eduarda      # substitua pelo seu username
+          svg_out_path: snake.svg            # caminho do arquivo gerado
