@@ -1,20 +1,23 @@
-<img alt="minecraft_banner" src="./assets/banner.gif">
+<img alt="minecraft_banner" src="./assets/banner.jpg" height="200px" width="100%">
+<img width="100%" src="./assets/estrelinhas.webp"/>
 
-# 💫 About Me:
-Console.log ("Olá meu nome é Isabele. Sou técnica em Redes de Computadores e atualmente sou bolsista PROUNI no curso de Análise e Desenvolvimento de Sistemas na Faculdade Imaculada Conceição do Recife.")
-
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+# 💫 Seja bem vindo(a)!!
+Console.log ("Olá meu nome é Isabele. Sou técnica em Redes de Computadores e atualmente sou bolsista PROUNI no curso de Análise e Desenvolvimento de Sistemas na Faculdade Imaculada Conceição do Recife.");
 
 
-## 🌐 Socials:
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/isabele-macedo) 
+<!-- redes sociais -->
 
----
-[![](https://visitcount.itsvg.in/api?id=isabele-eduarda&icon=3&color=5)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://linkedin.com/in/isabele-macedo"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
+  </a>
+  <a href="mailto:isabele.ebmacedo@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+</div>
+<br>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-# 💻 Tech Stack (learning):  
+## 💻 Tech Stack (em aprendizado):  
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -26,13 +29,11 @@ Console.log ("Olá meu nome é Isabele. Sou técnica em Redes de Computadores e 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 </div>
-  
-<!-- Galaga -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isabele-eduarda/isabele-eduarda/output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isabele-eduarda/isabele-eduarda/output/galaga-contribution-graph.svg">
-    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/isabele-eduarda/isabele-eduarda/output/galaga-contribution-graph.svg">
-</picture>
+<br><br>
 
+<img width="100%" src="./assets/estrelinhas.webp"/>
+
+<!-- Snake -->
+![snake animation](https://github.com/isabele-eduarda/isabele-eduarda/blob/output/github-contribution-grid-snake2.svg)
 
 
