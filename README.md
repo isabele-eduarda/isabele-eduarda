@@ -1,4 +1,4 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=49469295902913269" height="295" width="100%" frameborder="0" scrolling="no" ></iframe>
+<img alt="minecraft_banner" src="./assets/banner.gif">
 
 # 💫 About Me:
 Console.log ("Olá meu nome é Isabele. Sou técnica em Redes de Computadores e atualmente sou bolsista PROUNI no curso de Análise e Desenvolvimento de Sistemas na Faculdade Imaculada Conceição do Recife.")
