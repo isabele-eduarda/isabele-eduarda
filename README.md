@@ -32,7 +32,6 @@ Console.log ("Olá meu nome é Isabele. Sou técnica em Redes de Computadores e 
 <br><br>
 
 <img width="100%" src="./assets/estrelinhas.webp"/>
-
 <!-- Snake -->
 ![snake gif](https://github.com/isabele-eduarda/isabele-eduarda/blob/main/snake.svg)
 
