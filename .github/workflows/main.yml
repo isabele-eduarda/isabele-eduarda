@@ -1,19 +1,28 @@
-name: GitHub Snake
+name: Generate Snake
 
 on:
   schedule:
-    - cron: '0 * * * *' # roda a cada hora
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+  generate:
+    permissions:
+      contents: write
 
-      - name: Run Snake Game
-        uses: platane/snk@v1
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: isabele-eduarda      # substitua pelo seu username
-          svg_out_path: snake.svg            # caminho do arquivo gerado
+          github_user_name: isabele-eduarda
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
